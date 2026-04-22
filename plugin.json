@@ -1,0 +1,18 @@
+{
+  "name": "bd-skills",
+  "version": "1.0.0",
+  "description": "A collection of structured software development skills: PRD generation, planning, implementation, TDD, review, and refactoring workflows.",
+  "author": "sanxzy",
+  "homepage": "https://github.com/sanxzy/Skills",
+  "repository": "https://github.com/sanxzy/Skills",
+  "skills": [
+    "bd-fix",
+    "bd-generate-plan-from-prd",
+    "bd-generate-prd",
+    "bd-implement",
+    "bd-init-discussion",
+    "bd-request-refactor-plan",
+    "bd-review",
+    "bd-tdd"
+  ]
+}
